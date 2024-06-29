@@ -32,5 +32,3 @@ A project focused on classifying messages as spam or not spam using various NLP 
 A project aimed at identifying duplicate questions on Quora using NLP models.
 
 ---
-
-Feel free to customize this description further based on your specific needs and preferences.
